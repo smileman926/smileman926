@@ -48,7 +48,7 @@ retrospection etc.
 
 ● Secured encrypted SSL connection for users.
 
-● Integrated Magento with Amazon, Ebay, Quickbooks to sync orders and i nventory acrossplatforms.
+● Built serverless architecture with AWS services including Lamda, EC2, Cognito, S3, DynamoDB, etc.
 
 
 ---
