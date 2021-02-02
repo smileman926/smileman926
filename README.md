@@ -1,42 +1,39 @@
-### Hi there, I'm Jeff 👋 ✨
+### Hello folks 👋
 
-I'm a Senior Full Stack Developer and from Hong Kong. 👨‍💻
+I'm a  versatile and experienced senior full-stack developer with 6+ years of experience and
+strong skills in web development.
 
-When problems surface, I methodically turn them into opportunities.
+I have worked on 20+ projects for clients in a variety of
+industries consisting of projects on both front-end and back-end technology stack in
+software development.
 
-My stewardship keeps me intensely rooted from ideation to code with the intensity for focusing on methodologies that maximize outputs and minimizes inputs. By setting into motion, a “mentoring is implied” culture in a self-governing environment influenced by the strict practice of agile principles, a center of gravity begins to form around the requirements.
+I can design and develop a product that will rock your world plus your customers will like it.
+I just want to say that my philosophy is to always build stuff that people use. 👨‍💻
+Also, I am condent that I am offering the best deals possible, awesome feedback from our customers is a kind of proof of my best services. 😄
 
-The anatomy of my approach, the composition of strategic units that delivers consistent results with discipline & maturity is the foundation for attracting exceptionally smart people, that you can remarkably trust. What this will achieve will blow you away!
 
-Today’s proliferation of technology necessitates a paradigm shift in talent acquisition where being multi-disciplined is a pre-requisite, and having a healthy disregard for the status quo is now a stipulation.
-
-Fully embracing my autodidactic nature has facilitated the rapid ability to educate myself to advanced levels beyond the attainability of the traditional outlets in today’s industry. Because of this, I excel naturally in multi-disciplined environments, roles & capacities.
-
-- ⚡ I roll deep in JS frameworks(React, Angular, Vue, etc), AWS services, Backend development(Laravel, Django, Node)
-- 💬 Ask me about how to create resilient and scalable architectures 😄
-- 📫 How to reach me: by [email](mailto:bluesky410219@gmail.com)
+- 📫 Touch me [email](mailto:smileman926@hotmail.com)
 
 ---
 
 ## ACHIEVEMENTS
-- Excellent Frontend Development (HTML5, CSS3, Less, Sass, TailwindCss, Jade, Pug, Twig)
-- JAM Stack Static Site Development (Gatsby, Contentful, Prismic)
-- MERN/MEAN/MEVN Stack Development (Express, Nest, Koa, React, Vue, Angular, Next, Nuxt, MongoDB)
-- SAAS Platform Development (GCP, Firebase, Firestore, App Engine, AWS EC2, S3, IAM, Lambda, DynomoDB)
-- Payment Integration (Paypal, Stripe)
-- Mobile App Development (iOS/Android) development (React Native, Flutter, Ionic, Cocopod, Swift)
-- DB Design, Delivery System Development (MySQL, PostgreSQL, MongoDB)
-- Backend Structure Development (Laravel, Codeigniter, Symfony, CakePHP, Java Maven, Spring, ASP.NET, .NET Core)
-- Ecommerce CMS Development (WordPress, BuddyPress, Shopify, CraftCMS)
-- Visual Programming (Bubble.io, WebFlow)
-- OOP Functional Programming (C, C++, Python, Django, Flask, TensorFlow, Chatbot)
-
-One of my previous favourite project, a camera surveillance platform that stores video footage and ingests them through a machine learning pipeline to perform video analytics, motion detection, and [more](https://streaming-platform.com)!
-
-
-![screen](https://streamnvr.com/wp-content/uploads/sites/5/2018/12/scrubbed-multiple-devices.png)
-
-This platform has been designed using fault tolerant microservices backed by kubernetes.
+● Develop and test User Interfaces for Mobile/Tablet/Desktop using HTML/HTML5, CSS/CSS3, LESS, JSON, JavaScript, ES6, React.js/Redux/Thunk/Saga/Next.js/GatsBy/GraphQL, Angular and Vue.js/Nuxt.js .
+● Create Custom Reusable and Scalable Components.
+● Build user Authentication and Authorisation system using Auth0 API.
+● Work with JEST unit test framework to write unit tests for JavaScript code.
+● Write code to handle cross-browser compatibility issues in IE 9, FF, Safari and Chrome.
+● Work with backend engineers to optimize existing API calls to create efficiencies by deprecating
+unneeded API calls.
+● Implement server-side rendering for a project in React.js.
+● Involved in all agile ceremonies like: Daily stand-ups, Backlog pointing session, Planning session,
+retrospection etc.
+● Develop clean, user-friendly interfaces with implementation of features, supporting cross-browser functionality, utilizing APIs, responsive design.
+● Optimisation of code and resources to increase loading speed.
+● Integrate 3rd party services via APIs.
+● Implemented and developed advanced features according to specific requirements using PHP (Laravel Framework), Node.js(Express.js, Serverless.js ), Python(Django, Flask, Tornado Framework) and MySQL,PostgreSQL, MongoDB .
+● Managed hosting servers. Skills/Tools involved: Shell, CPanel, DirectAdmin, Linux .
+● Secured encrypted SSL connection for users.
+● Integrated Magento with Amazon, Ebay, Quickbooks to sync orders and i nventory acrossplatforms.
 
 ---
 
