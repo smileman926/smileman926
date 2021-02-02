@@ -8,9 +8,9 @@ industries consisting of projects on both front-end and back-end technology stac
 software development.
 
 I can design and develop a product that will rock your world plus your customers will like it.
-I just want to say that my philosophy is to always build stuff that people use. 👨‍💻
+I just want to say that my philosophy is to always build stuff that people use.
 
-Also, I am condent that I am offering the best deals possible, awesome feedback from our customers is a kind of proof of my best services. 😄
+Also, I am condent that I am offering the best deals possible, awesome feedback from our customers is a kind of proof of my best services.
 
 
 - 📫 Touch me [email](mailto:smileman926@hotmail.com)
