@@ -13,8 +13,6 @@ I just want to say that my philosophy is to always build stuff that people use.
 Also, I am confident that I am offering the best deals possible, awesome feedback from our customers is a kind of proof of my best services.
 
 
-- 📫 Touch me [email](mailto:smileman926@hotmail.com)
-
 ---
 
 ## ACHIEVEMENTS
@@ -35,6 +33,7 @@ Also, I am confident that I am offering the best deals possible, awesome feedbac
   - Managed hosting servers. Skills/Tools involved: Shell, CPanel, DirectAdmin, Linux .
   - Secured encrypted SSL connection for users.
   - Built serverless architecture with AWS services including Lamda, EC2, Cognito, S3, DynamoDB, etc.
+  - Working with Blockchian technology - Smart Contract, Solidity, Web3, Ethereum, Alogrand, etc
 
 ---
 
