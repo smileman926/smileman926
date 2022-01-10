@@ -1,9 +1,9 @@
 ### Hello folks 👋
 
-I'm a  versatile and experienced senior full-stack developer with 6+ years of experience and
+I'm a  versatile and experienced senior full-stack developer with 10+ years of experience and
 strong skills in web development.
 
-I have worked on 20+ projects for clients in a variety of
+I have worked on several projects for clients in a variety of
 industries consisting of projects on both front-end and back-end technology stack in
 software development.
 
