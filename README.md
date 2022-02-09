@@ -19,7 +19,7 @@ Also, I am confident that I am offering the best deals possible, awesome feedbac
 ---
 
 ## ACHIEVEMENTS
-  - Develop and test User Interfaces for Mobile/Tablet/Desktop using HTML/HTML5, CSS/CSS3, LESS, JSON, JavaScript, ES6, React.js/Redux/Thunk/Saga/Next.js/GatsBy/GraphQL, Angular and Vue.js/Nuxt.js .
+  - Develop and test User Interfaces for Mobile/Tablet/Desktop using HTML/HTML5, CSS/CSS3, LESS, JSON, JavaScript, TypeScript, ES6, React.js/Redux/Thunk/Saga/Next.js/GatsBy/GraphQL, Angular and Vue.js/Nuxt.js .
   - Blockchain and cryptocurrency projects
     * Ethereum, Bitcoin, Solana, Algorand, Polygon, etc
     * Solidity, Rust, REACH, PY-TEAL, ERC20/ERC721, Defi, Uniswap, AAVE, DEX
