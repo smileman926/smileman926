@@ -40,7 +40,6 @@ Also, I am confident that I am offering the best deals possible, awesome feedbac
   - Managed hosting servers. Skills/Tools involved: Shell, CPanel, DirectAdmin, Linux .
   - Secured encrypted SSL connection for users.
   - Built serverless architecture with AWS services including Lamda, EC2, Cognito, S3, DynamoDB, etc.
-  - Working with Blockchian technology - Smart Contract, Solidity, Web3, Ethereum, Alogrand, etc
 
 ---
 
