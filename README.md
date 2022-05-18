@@ -40,9 +40,3 @@ Also, I am confident that I am offering the best deals possible, awesome feedbac
   - Managed hosting servers. Skills/Tools involved: Shell, CPanel, DirectAdmin, Linux .
   - Secured encrypted SSL connection for users.
   - Built serverless architecture with AWS services including Lamda, EC2, Cognito, S3, DynamoDB, etc.
-
----
-
-![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
-
-![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mateothegreat&count_private=true&show_icons=true&custom_title=stats%20yo&theme=radical)
